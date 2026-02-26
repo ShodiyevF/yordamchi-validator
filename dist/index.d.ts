@@ -1,3 +1,4 @@
-import validatorLib = require("./lib/validator.js");
 import validatorMiddleware = require("./lib/validator.middleware.js");
-export { validatorLib as validator, validatorMiddleware };
+import validatorInteface = require("./lib/validation.interface.js");
+import validatorLib = require("./lib/validator.js");
+export { validatorLib as validator, validatorMiddleware, validatorInteface };

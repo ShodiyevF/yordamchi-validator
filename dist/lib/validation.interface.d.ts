@@ -85,15 +85,15 @@ export namespace ValidationInterface {
         [key: string]: TValidationRule;
     }
     
-    export interface IValidationSuccessResult {
+    interface IValidationSuccessResult {
         status: 200;
     }
     
-    export interface IValidationErrorResult {
+    interface IValidationErrorResult {
         status: 400;
         error: string;
     }
     
-    export type TValidationResult = IValidationSuccessResult | IValidationErrorResult
+    type TValidationResult = IValidationSuccessResult | IValidationErrorResult
     
 }

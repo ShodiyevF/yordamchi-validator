@@ -1,7 +1,7 @@
 {
-  "name": "@yordamchi/validator",
-  "version": "1.0.0",
-  "description": "Dynamic validator",
+  "name": "yordamchi-validator",
+  "version": "1.0.2",
+  "description": "Universal yordamchi validator",
   "main": "index.js",
   "types": "dist/index.d.ts",
   "keywords": [

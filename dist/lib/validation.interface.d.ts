@@ -1,4 +1,4 @@
-namespace ValidationInterface {
+export namespace ValidationInterface {
 
     interface IStringType {
         required: boolean;
@@ -97,5 +97,3 @@ namespace ValidationInterface {
     export type TValidationResult = IValidationSuccessResult | IValidationErrorResult
     
 }
-
-export default ValidationInterface

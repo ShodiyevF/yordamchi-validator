@@ -1,2 +1,4 @@
+import { ValidationInterface } from "./validation.interface";
+
 export = validator;
-declare function validator(dto: any, body: any): any;
+declare function validator(dto: ValidationInterface.DTO, body: any): any;

@@ -9,6 +9,10 @@
     "validator",
     "yordamchi/validator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShodiyevF/yordamchi-validator.git"
+  }, 
   "author": {
     "name": "Fayzulloh Zarif",
     "email": "fayzulloh6757@gmail.com"

@@ -1,0 +1,20 @@
+{
+  "name": "@yordamchi/validator",
+  "version": "1.0.0",
+  "description": "Dynamic validator",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "yordamchi",
+    "validator",
+    "yordamchi/validator"
+  ],
+  "author": {
+    "name": "Fayzulloh Zarif",
+    "email": "fayzulloh6757@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

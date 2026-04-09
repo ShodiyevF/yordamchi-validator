@@ -1,6 +1,6 @@
 {
   "name": "yordamchi-validator",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Universal yordamchi validator",
   "main": "index.js",
   "types": "dist/index.d.ts",
